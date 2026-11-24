@@ -1,2 +1,3 @@
-# raphaelvongal-portfolio
-Professional portfolio showcasing web development, digital solutions, no-code automation and artificial intelligence projects by Raphael Von Gal.
+# Raphael Von Gal — Portfolio
+
+Static bilingual portfolio built with HTML, CSS and JavaScript. Open index.html locally. Deploy from the main branch using Netlify.
