@@ -6,3 +6,14 @@ header{position:sticky;top:0;z-index:10;backdrop-filter:blur(12px);background:#0
 
 /* Approved portrait: keep face in frame. */
 .portrait img{object-position:50% 35%}
+
+/* WhatsApp - espaço reservado para o selo Netlify */
+.floating-wa {
+    bottom: 85px;
+}
+
+@media (max-width: 900px) {
+    .floating-wa {
+        bottom: 80px;
+    }
+}
